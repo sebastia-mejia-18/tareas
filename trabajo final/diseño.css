@@ -33,14 +33,31 @@ h1{
     background-color: #1b1b32;
 }
 
+.section-clara{
+    color: black;
+    background-color: white;
+}
+
 .seccion-titulo{
     font-size: 2rem;
     padding: 15px 0;
     font-family: "Rubik Dirt", system-ui;
 }
 
+.section-descripcion{
+    font-size: 1.2rem;
+    color:#584e4e ;
+}
+
 .seccion-texto{
     font-size: 1.2rem;
+}
+
+.texto-negro{
+    color: #1b1b32;
+}
+.texto-blanco{
+    color: white;
 }
 
 
@@ -70,6 +87,61 @@ h1{
     min-width: 450px;
     text-align: center;
 }
+/*Experencia*/
+.experiencia{
+    padding: 40px 40px 60px 40px;
+    text-align: center;
+}
+
+.experiencia .columna{
+    padding: 20;
+    border: 2px solid#5a007840;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    transition: all 0.2s ease-in ;
+}
+
+.experiencia .columna:hover{
+    color: white;
+    background-color: #1b1b32;
+}
+
+
+
+.experiencia i{
+    font-size: 2.5rem;
+    color: aqua;
+    background-color: black;
+    padding: 8px 19px;
+    border-radius: 50%;
+}
+
+.experiencia-titulo{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.badges-contenedor{
+    font-size:25px ;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.badges{
+    margin:5px ;
+}
+
+/*proyectos*/
+
+.proyectos-recientes{
+     
+}
+
+
+
+
 
 /*sobre mi*/
 .sobre-mi{
