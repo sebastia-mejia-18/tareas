@@ -1,0 +1,59 @@
+Recursos multimedia
+
+https://www.freepik
+https://pixabay
+https://iconos8
+https://leonardo
+
+
+Objetos: 
+
+leonardo.ai
+imagens con inteligencai artifical
+
+casi todas las etiquetas tienen una propiedad textContent (menos los input),
+
+1.0-la cual permite acceder al texto que es visible para el usuario.
+
+1.1-Para los input la propiedadque permite ver y manipular el contenido es la value.
+
+1.2una estructura de datos que pueda almacenar cual cualquier otro tipo de datos (llave y otro valor)
+literales o objetos por constructor
+
+---------------------------------------------------------------------------------------|
+1.3-el DOM es manipulado por medio de eventos                                          |
+                                                                                       |
+eventosde usuario -> Toda accion que realiza un usuariodentro de la opcion             |
+clik, doble clik, scroll, presionar una tecla, ETC                                     |
+                                                                                       |
+eventos de documentos -> Toda accion que se realiza por debajo y no es visible         |
+para el usuario                                                                        |
+                                                                                       |
+los eventos son funciones o acciones que se pueden definir desde el html o             |
+desde el JavaScript                                                                    |
+y siempre seran ejecutados por medio de funciones                                      |
+---------------------------------------------------------------------------------------|
+
+
+funciones-> bloque de codigo encapsulado que se puede llamr donde quiera
+ y ejecutara una accion definida
+ Toda funcion trabaja dos tiempos: su definicio y su llamado o invicacion debe existir siempre los dos
+ por que si no existen no se puede hacer nada
+
+   funciones regulares: hay dos tipos de funciones regulares
+     declarativas o las de exprecion
+
+   funciones flecha: solo hay un tipo de funciones flecha que es
+   de exprecion
+
+   funciones anonimas:
+
+
+   funciones declarativas-> se almacenan en el alcance global de la aplicacion(hoisting)
+
+   eventos predeterminado 
+   mause -> clik, doble clik, ingreso del mause, salida del mause, scroll
+   onclick,ondblclick,onmauseenter, onmauseout
+   teclado -> 
+
+   Modulos-> son una importacion y exportacion de contenido entre archivo JavaScript
